@@ -1,0 +1,11 @@
+{
+  "name": "electron-vbs-excel",
+  "version": "1.0.0",
+  "description": "Excel Test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "y-yama-3",
+  "license": "MIT"
+}
