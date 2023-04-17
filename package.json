@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "y-yama-3",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.1.2"
+  }
 }
